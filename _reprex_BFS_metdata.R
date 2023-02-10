@@ -33,4 +33,6 @@ meta_pxweb_social_welfare <- get_pxweb_pkg_meta()
 # fetch metadata via high-level function
 meta_social_welfare <- get_pxweb_meta_social_welfare()
 
+str(meta_pxweb_social_welfare$variables)
+
 sessioninfo::session_info()
