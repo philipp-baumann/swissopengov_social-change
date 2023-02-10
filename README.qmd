@@ -1,0 +1,19 @@
+---
+title: "Exploring social status and envisioning potential for change in Switzerland using Open Government Data from the Swiss Federal Office of Statistics (BFS)"
+author: "Philipp Baumann"
+date: "Last update: `r format(Sys.time(), '%b %d, %Y')`"
+format:
+  gfm:
+    toc: true
+    number-sections: true
+jupyter: python3
+---
+
+```{r}
+#| echo: false
+#| include: false
+if (!require("reticulate")) install.packages("reticulate")
+library("reticulate")
+```
+
+Test
