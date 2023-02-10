@@ -27,7 +27,7 @@ requests to fetch data behind the BFS database in Switzerland over a web
 interface. It aims to disseminate statistical data cubes and is
 developed openly by Statistics Sweden.
 [Here](https://www.scb.se/en/services/statistical-programs-for-px-files/px-web/pxweb-examples/)
-is a nice oerview of organizations worldwide that use the PxWeb
+is a nice overview of organizations worldwide that use the PxWeb
 framework for publishing and providing data.
 
 Perhaps because both R and Python are lingua franca for statistics and
